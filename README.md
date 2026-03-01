@@ -17,17 +17,10 @@ A real-time, grid-based pathfinding visualizer built with Python and Pygame. Thi
 
 ### Dependencies
 Install the required library using pip:
-
 Bash
 pip install pygame
 
-Running the Application
-Clone this repository:
-
-Bash
-git clone [https://github.com/your-username/dynamic-pathfinding-agent.git](https://github.com/RijaFatima92/dynamic-pathfinding-agent.git)
 Navigate to the directory and run the main script:
-
 Bash
 python main.py
 (Note: If using Jupyter Notebook, open the .ipynb file and run all cells.)
