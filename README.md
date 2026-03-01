@@ -25,7 +25,7 @@ Running the Application
 Clone this repository:
 
 Bash
-git clone [https://github.com/your-username/dynamic-pathfinding-agent.git](https://github.com/your-username/dynamic-pathfinding-agent.git)
+git clone [https://github.com/your-username/dynamic-pathfinding-agent.git](https://github.com/rijafatima92/dynamic-pathfinding-agent.git)
 Navigate to the directory and run the main script:
 
 Bash
