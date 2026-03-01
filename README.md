@@ -17,7 +17,8 @@ A real-time, grid-based pathfinding visualizer built with Python and Pygame. Thi
 
 ### Dependencies
 Install the required library using pip:
-```bash
+
+Bash
 pip install pygame
 
 Running the Application
